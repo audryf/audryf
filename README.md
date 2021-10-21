@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**audryf/audryf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on earning a coding bootcamp certificate.
+- 🌱 I’m currently learning my way through all things JavaScript!
+- 👯 I’m looking to collaborate on exciting projects with other developers from any experience level.
+- 🤔 I’m looking for help with coding practice.
+- 💬 Ask me about anything! 
+- 📫 How to reach me: 
+     - Here on GitHub
+     - Email - audryford792@gmail.com
+     - LinkedIn - linkedin.com/in/audry-ford/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love plants!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
