@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Web Developer + Customer Service Extrodinaire
 
 - 🔭 I’m currently working on earning a coding bootcamp certificate.
 - 🌱 I’m currently learning my way through all things JavaScript!
