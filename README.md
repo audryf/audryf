@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Audry and I'm a Full Stack Web Developer 
-## Customer Service Extrodinaire + Organized Planner
+## Hi there 👋 My name is Audry and I'm a Full Stack Web Developer 
+### Customer Service Extrodinaire + Organized Planner
 
 - 🔭 I’m currently working on earning a coding bootcamp certificate.
 - 🌱 I’m currently learning my way through all things JavaScript!
